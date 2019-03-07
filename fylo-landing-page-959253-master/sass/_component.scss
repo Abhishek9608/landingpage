@@ -1,0 +1,120 @@
+////////////
+//logo
+
+.header__logo-box{
+    position: absolute;
+    top:4rem;
+    left:4rem;
+}
+
+.header__logo{
+    height: 3.5rem;
+}
+
+.header__text-box{
+    position: absolute;
+    top:35%;
+    left:3%;
+}
+
+
+////////
+//text-inside-header
+
+.heading-primary{
+    color:#fff;
+    text-transform: uppercase;
+    margin-bottom: 3rem;
+}
+.heading-primary--main{
+    display: block;
+    font-size: 4rem;
+    font-weight: 600;
+
+    animation-name: moveInLeft;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    
+
+
+
+}
+.heading-primary--sub{
+    display: block;
+    font-size: 4rem;
+    font-weight: 600;
+
+    animation-name: moveInLeft;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    
+
+}
+
+
+@keyframes moveInLeft{
+    0%{
+        opacity:0;
+        transform: translateX(-10rem);
+    }
+
+    80%{
+        transform:translateX(1rem);
+    }
+
+    100%{
+        opacity: 1;
+        transform: translate(0);
+    }
+}
+
+///////////
+//button
+.btn:link,
+.btn:visited{
+    text-transform: uppercase;
+    text-decoration: none;
+   
+    display: inline-block;
+    border-radius: .5rem;
+    transition: all .2s;
+
+}
+
+.btn:hover{
+    transform:translateY(-.3rem);
+    box-shadow: 0 1rem 2rem rgba(0,0,0,.2);
+
+}
+.btn:active{
+    transform: translateY(-.1rem);
+    box-shadow: 0 1rem 1rem rgba(0,0,0,.2);
+}
+
+.btn--white{
+    background-color:hsl(163, 95%, 43%);
+    color:#fff;
+    padding: 1.5rem 13rem;
+}
+.header__user-photo{
+    position: absolute;
+    top:12rem;
+    right:7rem;
+}
+
+.header__button-box{
+    position: absolute;
+    top:3rem;
+    right: 5rem;
+}
+
+.btn--white1{
+    color:#fff;
+    margin-right: 2rem;
+    padding: 1rem 1rem;
+}
+.btn--white2{
+    background-color: hsl(163, 95%, 43%);
+    color:#fff;
+    padding: .5rem 2rem;
+}
