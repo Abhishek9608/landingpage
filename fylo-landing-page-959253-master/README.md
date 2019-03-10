@@ -50,38 +50,6 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 
-**This is the content**
-  Sign In
-  Sign Up 
-
-  All Your Files In One Secure Location, Accessible Anywhere.
-  Get Started
-
-  Stay Productive, Wherever You Are
-
-  All platforms, all devices, all your files
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam 
-  egestas, elit sit amet fermentum viverra, ipsum dolor vehicula 
-  leo, ac accumsan magna tellus sed leo.
-
-  Real-time collaboration
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam 
-  egestas, elit sit amet fermentum viverra, ipsum dolor vehicula 
-  leo, ac accumsan magna tellus sed leo.
-
-  Security you can trust
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam 
-  egestas, elit sit amet fermentum viverra, ipsum dolor vehicula 
-  leo, ac accumsan magna tellus sed leo.
-
-  Automatic backups
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam 
-  egestas, elit sit amet fermentum viverra, ipsum dolor vehicula leo, 
-  ac accumsan magna tellus sed leo.
 
   Get Early Access Today
 
